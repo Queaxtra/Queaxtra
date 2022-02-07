@@ -1,7 +1,5 @@
 <h3 align="center">Front-end Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/st4chy" target="blank"><img src="https://img.shields.io/twitter/follow/st4chy?logo=twitter&style=for-the-badge" alt="st4chy" /></a> </p>
-
 - 🚀 ReponseApp [https://reponse.tech/](https://reponse.tech/)
 
 - 🔗 Portfolio [https://www.stachy.cf/](https://www.stachy.cf/)
