@@ -1,7 +1,5 @@
 <h3 align="center">Front-end Developer</h3>
 
-- 🚀 ReponseApp [https://reponse.tech/](https://reponse.tech/)
-
 - 🔗 Portfolio [https://www.stachy.cf/](https://www.stachy.cf/)
 
 <h3 align="left">Connect with me:</h3>
