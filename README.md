@@ -1,7 +1,7 @@
 # **<div align="center">Queaxtra</div>**  
   
 
-#### *<div align="center">Senior Front-end Developer & Self-taught developer</div>*  
+#### *<div align="center">Front-end Developer & Self-taught developer</div>*  
   
 
 <div align="center">
