@@ -14,9 +14,6 @@
 <a href="https://discord.com/users/825370766999552011" target="_blank">
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
-<a href="https://open.spotify.com/user/e3mdu37fpbqnlkj0p1lxbz171" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
-</a>
 </div>  
 
 **<div align="center">![](https://komarev.com/ghpvc/?username=queaxtra&color=red)</div>**
